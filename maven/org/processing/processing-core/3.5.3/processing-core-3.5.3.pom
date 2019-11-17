@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>org.processing</groupId>
-    <artifactId>core</artifactId>
+    <artifactId>processing-core</artifactId>
     <version>${project.parent.version}</version>
     <packaging>jar</packaging>
 
